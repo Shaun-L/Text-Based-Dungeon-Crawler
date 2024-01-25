@@ -1,5 +1,4 @@
 #Shaun Lim and Daniel Hernandez
-#11/17/2022 Lab 12 CECS 277
 #The same as our last lab, this program allows the user to wander through a dungeon maze and fight monsters that they encounter as they explore. The main difference with this lab is new dungeon maps will load once the user makes it to the end of their map. This is done using a singleton map class as well as different entity objects and factories creating those objects. (All menu inputs are checked using check_input)
 
 import map
